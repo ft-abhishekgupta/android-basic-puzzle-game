@@ -1,6 +1,11 @@
 # Basic Puzzle Android App
 ![](./logo.png) 
 
+
+## To Run App
+1. Download ```APP-APK.apk``` [Download Link](https://raw.githubusercontent.com/ft-abhishekgupta/android-basic-puzzle-game/master/APP-APK.apk "Direct Download")
+1. Install on Android Device and run.
+
 ## To use source code : 
 1. Clone Repository <br>
 ```git clone https://github.com/ft-abhishekgupta/android-basic-puzzle-game```
